@@ -1,0 +1,6 @@
+/sendkey NUMPADENTER down
+/wait .1
+/release keys
+/sendkey NUMPADENTER down
+/wait .1
+/release keys
